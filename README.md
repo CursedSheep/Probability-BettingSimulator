@@ -9,7 +9,13 @@ how the probability works i guess.
    - Right click the ListView to edit the chance of obtaining a certain item
    - Right click the ListView to edit whether the item is a winning item or not
    - Add bet and reward amount
-
+   
+### Type of games available
+   - Coin game
+   - Die game
+   - Deck of Cards game
+   - Roulette game
+   
 ### Definitions
    - Bet - Money to bet
    - Reward - Reward money
